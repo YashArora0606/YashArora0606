@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on scalable cloud backup @Carbonite
+- 🌱 I’m currently learning a lot about data science, deep learning, and NLP
+- 💬 Ask me about how the tech industry will evolve in the next 20 years
+- 📫 How to reach me: YashArora0606 on (most) platforms!
+- 😄 Pronouns: he/him
+
 <!--
 **YashArora0606/YashArora0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
