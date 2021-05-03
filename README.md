@@ -6,7 +6,7 @@ I'm currently looking for internships for the fall of 2021! If you're looking fo
 - 🌱 Currently working on collaborative coding with [Ohana](http://itsohana.com/)
 - 📫 How to reach me: YashArora0606 on (most) platforms!
 - 😄 Pronouns: he/him
-- 💬 Talk to be about my cats, [Hershey](http://yasharora.com/hershey.png) and [Lindor](http://yasharora.com/lindor.png) 💖
+- 💬 Talk to be about my cats, [Hershey](http://www.yasharora.com/hershey.jpeg) and [Lindor](http://www.yasharora.com/lindor.jpeg) 💖
 
 <!--
 **YashArora0606/YashArora0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
