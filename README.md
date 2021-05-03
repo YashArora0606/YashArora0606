@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi, 👋 I'm Yash!
 
+I'm currently looking for internships for the fall of 2021! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)
 
-- 🔭 I’m currently working on scalable cloud backup @Carbonite
-- 🌱 I’m currently learning a lot about data science, deep learning, and NLP
-- 💬 Ask me about how the tech industry will evolve in the next 20 years
+- 🔭 Just finished working on scalable cloud backup software @Carbonite
+- 🌱 Currently working on collaborative coding with [Ohana](http://itsohana.com/)
 - 📫 How to reach me: YashArora0606 on (most) platforms!
 - 😄 Pronouns: he/him
+- 💬 Talk to be about [my cats](http://yasharora.com/cats.png), Hershey and Lindor 💖
 
 <!--
 **YashArora0606/YashArora0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
