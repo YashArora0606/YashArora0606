@@ -1,6 +1,6 @@
 ### Hi, 👋 I'm Yash!
 
-I'm currently looking for internships for the fall of 2021! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)
+I'm currently looking for internships for the fall of 2021! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
 
 - 🔭 Just finished working on scalable cloud backup software @Carbonite
 - 🌱 Currently working on collaborative coding with [Ohana](http://itsohana.com/)
