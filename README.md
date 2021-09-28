@@ -2,7 +2,7 @@
 
 I'm currently looking for internships for the fall of 2021! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
 
-- 🔭 Just finished working on scalable cloud backup software @Shopify and then @Tesla
+- 👀 Building out a really sick alpha release [@Shopify](http://shopify.com/), and soon joining [@Tesla](http://tesla.com/)
 - 🌱 Currently working on collaborative coding with [Ohana](http://itsohana.com/)
 - 📫 How to reach me: YashArora0606 on (most) platforms!
 - 😄 Pronouns: he/him
