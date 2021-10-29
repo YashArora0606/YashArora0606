@@ -1,6 +1,6 @@
 ### Hi, 👋 I'm Yash!
 
-I'm currently looking for internships for the fall of 2021! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
+I'm currently looking for internships for the summer of 2022! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
 
 - 👀 Building out a really sick beta release [@Shopify](http://shopify.com/), and soon joining [@Tesla](http://tesla.com/)
 - 📫 How to reach me: YashArora0606 on (most) platforms!
