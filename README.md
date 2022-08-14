@@ -1,8 +1,9 @@
 ### Hi, 👋 I'm Yash!
 
-I'm currently looking for internships for the summer of 2022! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
+I'm currently looking for internships for 2022/2023! If you're looking for interns, feel free to [send me an email](mailto:yasharora0606@gmail.com)!
 
-- 👀 Building out a really sick beta release [@Shopify](http://shopify.com/)
+- 📈 Worked on fixed income trading and analytics [@Bloomberg](http://bloomberg.com/)
+- 👀 Built out a really sick beta release [@Shopify](http://shopify.com/)
 - 📫 How to reach me: YashArora0606 on (most) platforms!
 - 😄 Pronouns: he/him
 - 💬 Talk to be about my cats, [Hershey](http://www.yasharora.com/hershey.jpeg) and [Lindor](http://www.yasharora.com/lindor.jpeg) 💖
